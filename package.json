@@ -1,20 +1,24 @@
 {
   "name": "reactapp",
   "version": "1.0.0",
-  "description": "\"\"\u001b[DreactCrud\"",
-  "main": "\"\"\u001b[Dserver.js\"",
+  "description": "reactCrud\",
+  "main": "server.js",
   "scripts": {
-    "test": "\"\"\u001b[Dreact\""
+    "test": "jest",
+    "start": "nodemon server.js"
   },
-  "keywords": [
-    "\"\"\u001b[DReact\""
-  ],
-  "author": "\"\"\u001b[DRoshan Bhuvad\"",
+  "keywords": [],
+  "author": "Roshan Bhuvad",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "jest": "^26.0.1",
     "mongoose": "^5.9.18",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "supertest": "^4.0.2"
   }
 }
