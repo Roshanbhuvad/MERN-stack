@@ -1,0 +1,20 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DreactCrud\"",
+  "main": "\"\"\u001b[Dserver.js\"",
+  "scripts": {
+    "test": "\"\"\u001b[Dreact\""
+  },
+  "keywords": [
+    "\"\"\u001b[DReact\""
+  ],
+  "author": "\"\"\u001b[DRoshan Bhuvad\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18",
+    "morgan": "^1.10.0"
+  }
+}
