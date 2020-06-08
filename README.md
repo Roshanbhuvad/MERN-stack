@@ -31,3 +31,16 @@ DELETE customer API
 
 
 <img src="Images/test_result.JPG">
+
+
+# MongoDB datebase in Mongo Compass
+
+
+
+<img src="Images/MongoDb.JPG">
+
+
+# Customer Table
+
+
+<img src="Images/ReactTable.JPG">
